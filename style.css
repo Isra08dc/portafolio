@@ -1,0 +1,23 @@
+h1{
+    color:black;
+}
+*{
+    border:solid;
+}
+.header{
+    background-color: crimson;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.end{
+    display: flex;
+    justify-content: center;
+}
+p,h2{
+    text-align: center;
+}
